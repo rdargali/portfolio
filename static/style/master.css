@@ -6917,8 +6917,13 @@ h6 {
   -o-transition: ease all 0.35s;
   -webkit-transition: ease all 0.35s;
   transition: ease all 0.35s;
-  /* height: 200px; */
+
 }
+
+.education-box {
+  height: 200px;
+}
+
 .dark-theme .feature-box-2 {
   background: #1d1d1d;
   border-color: #090a0c;
